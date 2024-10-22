@@ -24,4 +24,4 @@ I’m passionate about building efficient, scalable, and secure APIs, and always
 
 ### 📫 Let's connect:
 - Email: uchihajavohir0609@gmail.com
-- LinkedIn: [(https://www.linkedin.com/in/javohir-hayitmirzayev-752422286/)]
+- LinkedIn: https://www.linkedin.com/in/javohir-hayitmirzayev-752422286/
