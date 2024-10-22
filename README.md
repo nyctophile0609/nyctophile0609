@@ -31,5 +31,6 @@ I’m passionate about building efficient, scalable, and secure APIs, and always
 - LinkedIn: https://www.linkedin.com/in/javohir-hayitmirzayev-752422286/
 
 
-### 🏆 LeetCode Profile:
-- [LeetCode Profile](https://leetcode.com/u/nyctophile_0609/)
+### 🏆 LeetCode Stats:
+![LeetCode Stats](https://leetcard.jacoblin.cool/nyctophile_0609?theme=light&font=Karma&ext=heatmap)
+
