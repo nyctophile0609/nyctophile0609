@@ -10,7 +10,7 @@ I’m passionate about building efficient, scalable, and secure APIs, and always
 - **Banner Management System**: Developed a system for managing banners and calculating payments. [GitHub link if available]
 - **School Automation System**: Automated processes for student and staff management, including payroll and holidays. [GitHub link if available]
 - **Telegram Bot**: Built a service connection bot using Aiogram. [GitHub link if available]
-  
+
 ### 🛠️ Tools & Technologies I use:
 - **Frameworks**: Django, DRF, Aiogram
 - **Databases**: MySQL, SQLite
@@ -21,6 +21,10 @@ I’m passionate about building efficient, scalable, and secure APIs, and always
 ### 💡 What I'm currently learning:
 - Improving my knowledge of **Docker** for containerization and deployments.
 - Exploring **FastAPI** and other modern backend frameworks.
+
+<!-- ### 📊 GitHub Stats:
+![nyctophile0609's GitHub stats](https://github-readme-stats.vercel.app/api?username=nyctophile0609&show_icons=true&theme=radical)
+-->
 
 ### 📫 Let's connect:
 - Email: uchihajavohir0609@gmail.com
