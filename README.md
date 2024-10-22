@@ -23,5 +23,5 @@ I’m passionate about building efficient, scalable, and secure APIs, and always
 - Exploring **FastAPI** and other modern backend frameworks.
 
 ### 📫 Let's connect:
-- Email: your-email@example.com
-- LinkedIn: [Your LinkedIn profile link]
+- Email: uchihajavohir0609@gmail.com
+- LinkedIn: [(https://www.linkedin.com/in/javohir-hayitmirzayev-752422286/)]
